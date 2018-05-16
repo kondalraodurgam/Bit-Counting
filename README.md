@@ -1,4 +1,4 @@
-# Bit-Counting
+# Code Wars  Bit-Counting
 
 
 http://www.codewars.com/kata/526571aae218b8ee490006f4/train/javascript
